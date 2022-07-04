@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.Box{
+    margin: 0rem 10rem;
+}
+h1{
+    font-size: xx-large;
+    color: blue;
+}
+
+p{
+    color: rgb(86, 86, 86);
+    font-size: medium;
+}
+ol{
+    padding-left: 5rem;
+    color: black;
+    font-size: medium;
+}
+a{
+    color: black;
+}
